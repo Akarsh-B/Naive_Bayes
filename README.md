@@ -2,7 +2,7 @@
 
 Description :-
 ------------
-A Python program for classification of a message as Ham or Spam using Naive Bayes prediction method, without using Scikit-Learn tools.
+A Python program for classification of a Mail as Ham or Spam using Naive Bayes prediction method, without using Scikit-Learn tools.
 
 Packages Used :-
 --------------
